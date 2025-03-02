@@ -4,7 +4,7 @@
 # # Welcome to The Notebook
 # ---
 # 
-# In this guided-project we are going to cover the following tasks: 
+# In this project we are going to cover the following tasks: 
 # 
 # - Task 1: Loading the customer reviews dataset
 # - Task 2: Clean and preprocess the reviews
